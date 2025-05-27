@@ -8,7 +8,7 @@ Predicts whether a patient will attend their scheduled medical appointment using
 - Concrete Compressive Strength Dataset (Regression)
 Predicts the compressive strength of concrete (in megapascals) based on its ingredients and age. This supports decision-making in civil engineering by modeling the highly nonlinear relationship between materials and strength.
 
-### 🏥 Dataset 1 – Medical Appointments (No-Show)
+### Dataset 1 – Medical Appointments (No-Show)
 - **Goal:** Predict whether a patient will attend their scheduled medical appointment.
 - **Approach:** Classification using K-Nearest Neighbors (KNN)
 
